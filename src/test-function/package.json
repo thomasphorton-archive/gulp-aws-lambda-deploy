@@ -1,0 +1,10 @@
+{
+  "name": "test-function",
+  "version": "1.0.0",
+  "description": "example lambda function using NPM for dependency management",
+  "dependencies": {
+    "node-uuid": "^1.4.7"
+  },
+  "author": "Thomas Horton",
+  "license": "MIT"
+}
